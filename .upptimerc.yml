@@ -3,16 +3,46 @@ repo: uptime-monitor
 sites:
   - name: Giovanni Gardin
     url: https://www.giovannigardin.com
-    
+  #- name: Ristorante Gelateria All'Angelo Da Lalo
+  #  url: 
+  #- name: Life
+  #  url: 
+  #- name: Life CRM
+  #  url: 
+  #- name: Barchessa Loredan
+  #  url: 
+  #- name: Confraternita Vini Asolo Montello
+  #  url: 
+  #- name: Contemporanea
+  #  url: 
+  #- name: Contemporanea B2B
+  #  url: 
+  #- name: Contemporanea Group
+  #  url: 
+  #- name: Montello Country House
+  #  url: 
+  #- name: ProSetup
+  #  url: 
+  #- name: Sikrea
+  #  url: 
+  #- name: UNIPav
+  #  url: 
+  #- name: Ekphrasis
+  #  url: 
+  #- name: Itaca Gallery
+  #  url: 
+  #- name: Punto Infissi
+  #  url: 
+
 assignees:
   - ggardin
 
 status-website:
   cname: status.giovannigardin.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Giovanni Gardin
+  introTitle: "**Stato** dei servizi web"
+  introMessage: Vengono impiegate numerose tecnologie di ridondanza per garantire prestazioni e affidabilità ottimali. Tuttavia, qualora compaia un problema tecnico, pensiamo che i nostri clienti meritino una comunicazione chiara e trasparente. Su questa pagina è disponibile il monitoraggio dello stato dei servizi web.
   navbar:
     - title: Status
       href: /
