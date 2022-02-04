@@ -58,19 +58,19 @@
     "url": "$SITE_LFCRM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "life-crm",
-    "status": "down",
-    "uptime": "61.54%",
-    "uptimeDay": "61.54%",
-    "uptimeWeek": "61.54%",
-    "uptimeMonth": "61.54%",
-    "uptimeYear": "61.54%",
-    "time": 237,
-    "timeDay": 237,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "status": "up",
+    "uptime": "54.68%",
+    "uptimeDay": "54.68%",
+    "uptimeWeek": "54.68%",
+    "uptimeMonth": "54.68%",
+    "uptimeYear": "54.68%",
+    "time": 240,
+    "timeDay": 240,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2022-02-04": 123
+      "2022-02-04": 164
     }
   },
   {
@@ -216,7 +216,7 @@
     "timeMonth": 886,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2022-02-04": 323
+      "2022-02-04": 364
     }
   },
   {
@@ -279,11 +279,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "punto-infissi",
     "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "95.11%",
-    "uptimeMonth": "95.11%",
-    "uptimeYear": "95.11%",
+    "uptime": "95.65%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "95.65%",
     "time": 382,
     "timeDay": 382,
     "timeWeek": 382,
