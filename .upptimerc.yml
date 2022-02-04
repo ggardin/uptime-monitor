@@ -3,36 +3,36 @@ repo: uptime-monitor
 sites:
   - name: Giovanni Gardin
     url: https://www.giovannigardin.com
-  #- name: Ristorante Gelateria All'Angelo Da Lalo
-  #  url: 
-  #- name: Life
-  #  url: 
-  #- name: Life CRM
-  #  url: 
-  #- name: Barchessa Loredan
-  #  url: 
-  #- name: Confraternita Vini Asolo Montello
-  #  url: 
-  #- name: Contemporanea
-  #  url: 
-  #- name: Contemporanea B2B
-  #  url: 
-  #- name: Contemporanea Group
-  #  url: 
-  #- name: Montello Country House
-  #  url: 
-  #- name: ProSetup
-  #  url: 
-  #- name: Sikrea
-  #  url: 
-  #- name: UNIPav
-  #  url: 
-  #- name: Ekphrasis
-  #  url: 
-  #- name: Itaca Gallery
-  #  url: 
-  #- name: Punto Infissi
-  #  url: 
+  - name: Ristorante Gelateria All'Angelo Da Lalo
+    url: $SITE_RSTRLL
+  - name: Life
+    url: $SITE_LF
+  - name: Life CRM
+    url: $SITE_LFCRM
+  - name: Barchessa Loredan
+    url: $SITE_BRKLRD
+  - name: Confraternita Vini Asolo Montello
+    url: $SITE_CVAM
+  - name: Contemporanea
+    url: $SITE_CNTM
+  - name: Contemporanea B2B
+    url: $SITE_CNTMB
+  - name: Contemporanea Group
+    url: $SITE_CNTMG
+  - name: Montello Country House
+    url: $SITE_MCH
+  - name: ProSetup
+    url: $SITE_PRSTP
+  - name: Sikrea
+    url: $SITE_SKR
+  - name: UNIPav
+    url: $SITE_NPVBRT
+  - name: Ekphrasis
+    url: $SITE_KPHRS
+  - name: Itaca Gallery
+    url: $SITE_TCGLR
+  - name: Punto Infissi
+    url: $SITE_PTNFS
 
 assignees:
   - ggardin
