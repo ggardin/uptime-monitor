@@ -33,6 +33,8 @@ sites:
     url: $SITE_TCGLR
   - name: Punto Infissi
     url: $SITE_PTNFS
+  - name: Liquorificio Benedetti
+    url: $SITE_BNDTLQ
 
 assignees:
   - ggardin
