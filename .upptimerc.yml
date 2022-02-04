@@ -48,7 +48,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-  theme: night
+  themeUrl: https://github.com/ggardin/uptime-monitor/blob/75dba518d1fc026e4eaf1dbbd1804f8a3c0688e2/assets/theme.css
   metaTags:
     - name: "theme-color"
       content: "#111417"
