@@ -48,4 +48,4 @@ status-website:
   navbar:
     - title: Status
       href: /
-  theme: ocean
+  theme: night
