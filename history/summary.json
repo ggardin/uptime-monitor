@@ -58,19 +58,19 @@
     "url": "$SITE_LFCRM",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "life-crm",
-    "status": "up",
-    "uptime": "61.63%",
-    "uptimeDay": "61.63%",
-    "uptimeWeek": "61.63%",
-    "uptimeMonth": "61.63%",
-    "uptimeYear": "61.63%",
+    "status": "down",
+    "uptime": "62.85%",
+    "uptimeDay": "62.85%",
+    "uptimeWeek": "62.85%",
+    "uptimeMonth": "62.85%",
+    "uptimeYear": "62.85%",
     "time": 236,
     "timeDay": 236,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2022-02-05": 334,
+      "2022-02-05": 319,
       "2022-02-04": 194
     }
   },
@@ -217,7 +217,7 @@
     "timeMonth": 953,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2022-02-05": 573,
+      "2022-02-05": 580,
       "2022-02-04": 795
     }
   },
@@ -312,7 +312,7 @@
     "timeMonth": 1499,
     "timeYear": 1499,
     "dailyMinutesDown": {
-      "2022-02-05": 573,
+      "2022-02-05": 580,
       "2022-02-04": 398
     }
   }
