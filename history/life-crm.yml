@@ -1,7 +1,7 @@
 url: $SITE_LFCRM
-status: down
-code: 404
-responseTime: 183
-lastUpdated: 2022-02-05T07:47:45.564Z
+status: up
+code: 200
+responseTime: 320
+lastUpdated: 2022-02-05T09:02:33.533Z
 startTime: Fri Feb 04 2022 10:45:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
