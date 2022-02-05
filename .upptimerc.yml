@@ -50,3 +50,33 @@ status-website:
       href: /
   themeUrl: light
   favicon: https://raw.githubusercontent.com/ggardin/uptime-monitor/master/assets/icon.png
+
+i18n:
+  activeIncidents: Incidenti attivi
+  allSystemsOperational: Tutti i sistemi sono operativi
+  incidentReport: "Incident #$NUMBER report →"
+  activeIncidentSummary: Aperto $DATE con $POSTS post
+  incidentTitle: Report incidente $NUMBER
+  incidentDetails: Dettagli incidente
+  incidentFixed: Risolto
+  incidentOngoing: In corso
+  incidentOpenedAt: Aperto
+  incidentClosedAt: Chiuso
+  incidentSubscribe: Ricevi gli aggiornamenti
+  incidentViewOnGitHub: Vedi su GitHub
+  incidentCommentSummary: Pubblicato in data $DATE da $AUTHOR
+  incidentBack: ← Torna agli incidenti
+  pastIncidents: Incidenti passati
+  pastIncidentsResolved: Risolto in $MINUTES minuti con $POSTS post
+  liveStatus: Stato in tempo reale
+  overallUptime: "Uptime complessivo: $UPTIME"
+  overallUptimeTitle: Uptime complessivo
+  averageResponseTime: "Tempo di risposta medio: $TIMEms"
+  averageResponseTimeTitle: Tempo di risposta
+  sevelDayResponseTime: Tempo di risposta a 7 giorni
+  responseTimeMs: Tempo di risposta (ms)
+  up: Up
+  down: Down
+  degraded: Degraded
+  loading: Caricamento
+  footer: Made with ☕ and [OSS]($REPO) by [GG](https://giovannigardin.com)
