@@ -48,7 +48,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-  themeUrl: light
+  theme: light
   favicon: https://raw.githubusercontent.com/ggardin/uptime-monitor/master/assets/icon.png
 
 i18n:
