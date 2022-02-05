@@ -42,10 +42,11 @@ assignees:
 status-website:
   cname: status.giovannigardin.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Giovanni Gardin
+  name: Monitor
   introTitle: "**Stato** dei servizi web"
   introMessage: Vengono impiegate numerose tecnologie di ridondanza per garantire prestazioni e affidabilità ottimali. Tuttavia, qualora compaia un problema tecnico, pensiamo che i nostri clienti meritino una comunicazione chiara e trasparente. Su questa pagina è disponibile il monitoraggio dello stato dei servizi web.
   navbar:
     - title: Status
       href: /
   themeUrl: light
+  favicon: https://raw.githubusercontent.com/ggardin/uptime-monitor/master/assets/icon.png
