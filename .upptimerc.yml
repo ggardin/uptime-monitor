@@ -49,6 +49,3 @@ status-website:
     - title: Status
       href: /
   themeUrl: light
-  metaTags:
-    - name: "theme-color"
-      content: "#111417"
