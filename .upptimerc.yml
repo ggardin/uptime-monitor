@@ -23,8 +23,8 @@ sites:
     url: $SITE_MCH
   - name: ProSetup
     url: $SITE_PRSTP
-  - name: Sikrea
-    url: $SITE_SKR
+  #- name: Sikrea
+  #  url: $SITE_SKR
   - name: UNIPav
     url: $SITE_NPVBRT
   - name: Ekphrasis
@@ -33,8 +33,8 @@ sites:
     url: $SITE_TCGLR
   - name: Punto Infissi
     url: $SITE_PTNFS
-  - name: Liquorificio Benedetti
-    url: $SITE_BNDTLQ
+  #- name: Liquorificio Benedetti
+  #  url: $SITE_BNDTLQ
 
 assignees:
   - ggardin
