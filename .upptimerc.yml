@@ -7,8 +7,8 @@ sites:
     url: $SITE_RSTRLL
   - name: Life
     url: $SITE_LF
-  - name: Life CRM
-    url: $SITE_LFCRM
+  #- name: Life CRM
+  #  url: $SITE_LFCRM
   - name: Barchessa Loredan
     url: $SITE_BRKLRD
   - name: Confraternita Vini Asolo Montello
