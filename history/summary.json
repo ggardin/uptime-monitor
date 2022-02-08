@@ -58,19 +58,19 @@
     "url": "$SITE_BRKLRD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "barchessa-loredan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 4004,
-    "timeWeek": 724,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1005,
+    "timeDay": 4692,
+    "timeWeek": 1005,
+    "timeMonth": 1005,
+    "timeYear": 1005,
     "dailyMinutesDown": {
-      "2022-02-08": 0
+      "2022-02-08": 4
     }
   },
   {
