@@ -202,19 +202,19 @@
     "url": "$SITE_KPHRS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ekphrasis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 628,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 821,
+    "timeDay": 1364,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 7
     }
   },
   {
@@ -222,19 +222,19 @@
     "url": "$SITE_TCGLR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "itaca-gallery",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 590,
-    "timeWeek": 707,
-    "timeMonth": 707,
-    "timeYear": 707,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 979,
+    "timeDay": 2529,
+    "timeWeek": 979,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 7
     }
   },
   {
