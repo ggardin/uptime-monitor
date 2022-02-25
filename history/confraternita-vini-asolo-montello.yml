@@ -1,7 +1,7 @@
 url: $SITE_CVAM
-status: up
-code: 200
-responseTime: 322
-lastUpdated: 2022-02-24T23:14:09.111Z
+status: down
+code: 403
+responseTime: 110
+lastUpdated: 2022-02-25T22:48:55.150Z
 startTime: Fri Feb 04 2022 10:45:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
