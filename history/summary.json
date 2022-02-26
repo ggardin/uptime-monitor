@@ -192,19 +192,19 @@
     "url": "$SITE_NPVBRT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "uni-pav",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 224,
-    "timeDay": 134,
-    "timeWeek": 283,
+    "timeDay": 179,
+    "timeWeek": 276,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-02-26": 34
+      "2022-02-26": 73
     }
   },
   {
