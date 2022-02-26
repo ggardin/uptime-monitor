@@ -45,19 +45,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "life",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 217,
     "timeWeek": 276,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {
-      "2022-02-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Barchessa Loredan",
@@ -195,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "uni-pav",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 224,
     "timeDay": 134,
     "timeWeek": 283,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-02-26": 0
+      "2022-02-26": 34
     }
   },
   {
