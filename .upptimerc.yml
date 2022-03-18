@@ -33,8 +33,10 @@ sites:
     url: $SITE_TCGLR
   - name: Punto Infissi
     url: $SITE_PTNFS
-  #- name: Liquorificio Benedetti
-  #  url: $SITE_BNDTLQ
+  - name: Liquorificio Benedetti
+    url: $SITE_BNDTLQ
+  - name: Fabio Favrin portfolio
+    url: $SITE_FLF
 
 assignees:
   - ggardin
