@@ -5,8 +5,8 @@ sites:
     url: https://www.giovannigardin.com
   - name: Ristorante Gelateria All'Angelo Da Lalo
     url: $SITE_RSTRLL
-  - name: Life
-    url: $SITE_LF
+  #- name: Life
+  #  url: $SITE_LF
   #- name: Life CRM
   #  url: $SITE_LFCRM
   - name: Barchessa Loredan
