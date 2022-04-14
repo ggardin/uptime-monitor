@@ -45,9 +45,9 @@
     "url": "$SITE_BRKLRD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "barchessa-loredan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 300,
     "timeMonth": 311,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Confraternita Vini Asolo Montello",
