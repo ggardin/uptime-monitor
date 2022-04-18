@@ -13,7 +13,7 @@
     "time": 357,
     "timeDay": 202,
     "timeWeek": 441,
-    "timeMonth": 347,
+    "timeMonth": 345,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2022-04-14": 33,
@@ -26,15 +26,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ristorante-gelateria-all-angelo-da-lalo",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 1476,
     "timeDay": 2916,
     "timeWeek": 2398,
-    "timeMonth": 2214,
+    "timeMonth": 2251,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2022-03-27": 47,
@@ -55,7 +55,7 @@
     "time": 445,
     "timeDay": 312,
     "timeWeek": 306,
-    "timeMonth": 313,
+    "timeMonth": 309,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2022-04-14": 218
@@ -75,7 +75,7 @@
     "time": 344,
     "timeDay": 304,
     "timeWeek": 286,
-    "timeMonth": 307,
+    "timeMonth": 305,
     "timeYear": 344,
     "dailyMinutesDown": {}
   },
@@ -93,7 +93,7 @@
     "time": 598,
     "timeDay": 168,
     "timeWeek": 202,
-    "timeMonth": 498,
+    "timeMonth": 194,
     "timeYear": 598,
     "dailyMinutesDown": {}
   },
@@ -111,7 +111,7 @@
     "time": 4001,
     "timeDay": 2954,
     "timeWeek": 4722,
-    "timeMonth": 4266,
+    "timeMonth": 4320,
     "timeYear": 4001,
     "dailyMinutesDown": {
       "2022-02-14": 59
@@ -131,7 +131,7 @@
     "time": 1437,
     "timeDay": 3513,
     "timeWeek": 2940,
-    "timeMonth": 1680,
+    "timeMonth": 1725,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2022-02-14": 37
@@ -151,7 +151,7 @@
     "time": 377,
     "timeDay": 250,
     "timeWeek": 274,
-    "timeMonth": 322,
+    "timeMonth": 319,
     "timeYear": 377,
     "dailyMinutesDown": {}
   },
@@ -169,7 +169,7 @@
     "time": 342,
     "timeDay": 291,
     "timeWeek": 273,
-    "timeMonth": 317,
+    "timeMonth": 313,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -178,18 +178,19 @@
     "url": "$SITE_NPVBRT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "uni-pav",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 266,
-    "timeDay": 177,
-    "timeWeek": 383,
-    "timeMonth": 360,
-    "timeYear": 266,
+    "time": 297,
+    "timeDay": 1655,
+    "timeWeek": 727,
+    "timeMonth": 442,
+    "timeYear": 297,
     "dailyMinutesDown": {
+      "2022-04-18": 0,
       "2022-03-02": 20,
       "2022-02-26": 73
     }
@@ -208,7 +209,7 @@
     "time": 708,
     "timeDay": 770,
     "timeWeek": 648,
-    "timeMonth": 654,
+    "timeMonth": 649,
     "timeYear": 708,
     "dailyMinutesDown": {}
   },
@@ -226,7 +227,7 @@
     "time": 776,
     "timeDay": 873,
     "timeWeek": 696,
-    "timeMonth": 732,
+    "timeMonth": 727,
     "timeYear": 776,
     "dailyMinutesDown": {}
   },
@@ -236,15 +237,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "punto-infissi",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 294,
     "timeDay": 273,
     "timeWeek": 260,
-    "timeMonth": 295,
+    "timeMonth": 291,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2022-02-04": 16
@@ -264,7 +265,7 @@
     "time": 301,
     "timeDay": 141,
     "timeWeek": 190,
-    "timeMonth": 301,
+    "timeMonth": 303,
     "timeYear": 301,
     "dailyMinutesDown": {}
   }
