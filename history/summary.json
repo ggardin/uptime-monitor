@@ -259,9 +259,9 @@
     "url": "$SITE_FLF",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fabio-favrin-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -271,6 +271,7 @@
     "timeMonth": 327,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2022-05-20": 0,
       "2022-04-19": 18
     }
   }
