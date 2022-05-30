@@ -1,6 +1,6 @@
 # Create an issue to create an Upptime scheduled maintenance window.
 
-name: Schedule maintenance
+name: Add scheduled maintenance
 
 on:
   workflow_dispatch:
