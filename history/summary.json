@@ -114,9 +114,9 @@
     "slug": "contemporanea-b2-b",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "93.45%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.92%",
     "time": 3990,
     "timeDay": 3923,
@@ -124,7 +124,7 @@
     "timeMonth": 4391,
     "timeYear": 3990,
     "dailyMinutesDown": {
-      "2022-06-18": 94,
+      "2022-06-18": 102,
       "2022-02-14": 59
     }
   },
@@ -133,9 +133,9 @@
     "url": "$SITE_CNTMG",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "contemporanea-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "95.83%",
+    "uptimeDay": "95.81%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.95%",
