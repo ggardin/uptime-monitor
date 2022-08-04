@@ -7,9 +7,9 @@ sites:
   - name: Ristorante Gelateria All'Angelo Da Lalo
     url: $SITE_RSTRLL
     maxResponseTime: 5000
-  #- name: Life
-  #  url: $SITE_LF
-  #  maxResponseTime: 5000
+  - name: Life
+    url: $SITE_LF
+    maxResponseTime: 5000
   #- name: Life CRM
   #  url: $SITE_LFCRM
   #  maxResponseTime: 5000
@@ -24,7 +24,7 @@ sites:
     maxResponseTime: 5000
   - name: Contemporanea B2B
     url: $SITE_CNTMB
-    maxResponseTime: 5000
+    maxResponseTime: 10000
   - name: Contemporanea Group
     url: $SITE_CNTMG
     maxResponseTime: 5000
