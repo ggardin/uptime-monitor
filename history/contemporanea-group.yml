@@ -1,7 +1,7 @@
 url: $SITE_CNTMG
-status: up
-code: 200
-responseTime: 147
-lastUpdated: 2022-08-10T23:03:43.834Z
+status: down
+code: 500
+responseTime: 189
+lastUpdated: 2022-08-11T18:32:16.859Z
 startTime: Fri Feb 04 2022 10:45:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
