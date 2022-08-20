@@ -1,7 +1,7 @@
 url: https://www.giovannigardin.com
-status: degraded
-code: 500
-responseTime: 8637
-lastUpdated: 2022-08-20T17:41:53.187Z
+status: up
+code: 200
+responseTime: 191
+lastUpdated: 2022-08-20T17:47:10.513Z
 startTime: Fri Jan 28 2022 09:26:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
