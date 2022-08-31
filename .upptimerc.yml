@@ -1,9 +1,9 @@
 owner: ggardin
 repo: uptime-monitor
 sites:
-  - name: Giovanni Gardin
-    url: https://www.giovannigardin.com
-    maxResponseTime: 5000
+  #- name: Giovanni Gardin
+  #  url: https://www.giovannigardin.com
+  #  maxResponseTime: 5000
   - name: Ristorante Gelateria All'Angelo Da Lalo
     url: $SITE_RSTRLL
     maxResponseTime: 5000
@@ -25,9 +25,9 @@ sites:
   - name: Contemporanea B2B
     url: $SITE_CNTMB
     maxResponseTime: 10000
-  - name: Contemporanea Group
-    url: $SITE_CNTMG
-    maxResponseTime: 5000
+  #- name: Contemporanea Group
+  #  url: $SITE_CNTMG
+  #  maxResponseTime: 5000
   - name: Montello Country House
     url: $SITE_MCH
     maxResponseTime: 5000
@@ -37,9 +37,9 @@ sites:
   #- name: Sikrea
   #  url: $SITE_SKR
   #  maxResponseTime: 5000
-  - name: UNIPav
-    url: $SITE_NPVBRT
-    maxResponseTime: 5000
+  #- name: UNIPav
+  #  url: $SITE_NPVBRT
+  #  maxResponseTime: 5000
   - name: Ekphrasis
     url: $SITE_KPHRS
     maxResponseTime: 5000
@@ -52,9 +52,9 @@ sites:
   #- name: Liquorificio Benedetti
   #  url: $SITE_BNDTLQ
   #  maxResponseTime: 5000
-  - name: Fabio Favrin portfolio
-    url: $SITE_FLF
-    maxResponseTime: 5000
+  #- name: Fabio Favrin portfolio
+  #  url: $SITE_FLF
+  #  maxResponseTime: 5000
 
 assignees:
   - ggardin
