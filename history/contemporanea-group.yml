@@ -1,7 +1,7 @@
 url: $SITE_CNTMG
-status: degraded
+status: up
 code: 200
-responseTime: 5982
-lastUpdated: 2022-08-31T07:41:20.387Z
+responseTime: 4425
+lastUpdated: 2022-08-31T07:59:56.507Z
 startTime: Fri Feb 04 2022 10:45:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
