@@ -1,7 +1,7 @@
 url: $SITE_CNTMB
-status: down
-code: 404
-responseTime: 818
-lastUpdated: 2022-09-17T21:42:34.305Z
+status: up
+code: 200
+responseTime: 5099
+lastUpdated: 2022-09-17T21:49:13.310Z
 startTime: Fri Feb 04 2022 10:45:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
