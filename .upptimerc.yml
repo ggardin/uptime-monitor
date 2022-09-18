@@ -22,9 +22,9 @@ sites:
   - name: Contemporanea
     url: $SITE_CNTM
     maxResponseTime: 5000
-  - name: Contemporanea B2B
-    url: $SITE_CNTMB
-    maxResponseTime: 10000
+  #- name: Contemporanea B2B
+  #  url: $SITE_CNTMB
+  #  maxResponseTime: 10000
   #- name: Contemporanea Group
   #  url: $SITE_CNTMG
   #  maxResponseTime: 5000
