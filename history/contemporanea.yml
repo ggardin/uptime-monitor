@@ -1,7 +1,7 @@
 url: $SITE_CNTM
-status: up
+status: degraded
 code: 200
-responseTime: 4699
-lastUpdated: 2022-09-28T20:27:34.444Z
+responseTime: 6362
+lastUpdated: 2022-09-28T20:38:48.262Z
 startTime: Fri Feb 04 2022 10:45:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
