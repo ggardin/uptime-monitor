@@ -19,9 +19,9 @@ sites:
   - name: Confraternita Vini Asolo Montello
     url: $SITE_CVAM
     maxResponseTime: 5000
-  - name: Contemporanea
-    url: $SITE_CNTM
-    maxResponseTime: 5000
+  # - name: Contemporanea
+  #  url: $SITE_CNTM
+  #  maxResponseTime: 5000
   #- name: Contemporanea B2B
   #  url: $SITE_CNTMB
   #  maxResponseTime: 10000
