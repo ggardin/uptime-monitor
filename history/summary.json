@@ -4,19 +4,19 @@
     "url": "$SITE_RSTRLL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ristorante-gelateria-all-angelo-da-lalo",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.12%",
-    "time": 3434,
-    "timeDay": 5573,
-    "timeWeek": 5937,
-    "timeMonth": 4745,
-    "timeYear": 3610,
+    "time": 3440,
+    "timeDay": 5342,
+    "timeWeek": 5836,
+    "timeMonth": 4739,
+    "timeYear": 3614,
     "dailyMinutesDown": {
-      "2023-07-12": 0,
+      "2023-07-12": 9,
       "2023-07-11": 19,
       "2023-07-03": 17,
       "2023-06-29": 33,
@@ -72,7 +72,7 @@
     "timeDay": 285,
     "timeWeek": 442,
     "timeMonth": 543,
-    "timeYear": 503,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2023-04-22": 66,
       "2022-12-11": 165,
@@ -97,7 +97,7 @@
     "timeDay": 274,
     "timeWeek": 278,
     "timeMonth": 306,
-    "timeYear": 334,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2023-02-11": 16
     }
@@ -117,7 +117,7 @@
     "timeDay": 404,
     "timeWeek": 482,
     "timeMonth": 441,
-    "timeYear": 446,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2023-01-23": 730,
       "2023-01-22": 1440,
@@ -142,7 +142,7 @@
     "timeDay": 293,
     "timeWeek": 371,
     "timeMonth": 344,
-    "timeYear": 320,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2023-02-11": 16
     }
