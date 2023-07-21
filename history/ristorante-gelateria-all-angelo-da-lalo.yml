@@ -1,7 +1,7 @@
 url: $SITE_RSTRLL
-status: up
+status: degraded
 code: 200
-responseTime: 4266
-lastUpdated: 2023-07-21T08:14:56.574Z
+responseTime: 7955
+lastUpdated: 2023-07-21T09:15:28.325Z
 startTime: Fri Feb 04 2022 10:45:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
