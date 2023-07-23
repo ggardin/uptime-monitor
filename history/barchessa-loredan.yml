@@ -1,7 +1,7 @@
 url: $SITE_BRKLRD
-status: up
+status: degraded
 code: 200
-responseTime: 475
-lastUpdated: 2023-07-23T04:33:24.552Z
+responseTime: 5262
+lastUpdated: 2023-07-23T05:26:26.090Z
 startTime: Fri Feb 04 2022 10:45:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
