@@ -4,9 +4,9 @@ sites:
   #- name: Giovanni Gardin
   #  url: https://www.giovannigardin.com
   #  maxResponseTime: 5000
-  - name: Ristorante Gelateria All'Angelo Da Lalo
-    url: $SITE_RSTRLL
-    maxResponseTime: 5000
+  #- name: Ristorante Gelateria All'Angelo Da Lalo
+  #  url: $SITE_RSTRLL
+  #  maxResponseTime: 5000
   - name: Life
     url: $SITE_LF
     maxResponseTime: 5000
