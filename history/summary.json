@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.86%",
     "time": 380,
-    "timeDay": 396,
-    "timeWeek": 341,
-    "timeMonth": 340,
-    "timeYear": 311,
-    "dailyMinutesDown": {
-      "2023-01-23": 730
-    }
+    "timeDay": 426,
+    "timeWeek": 345,
+    "timeMonth": 344,
+    "timeYear": 312,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Barchessa Loredan",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 567,
-    "timeDay": 410,
-    "timeWeek": 286,
-    "timeMonth": 378,
+    "timeDay": 388,
+    "timeWeek": 287,
+    "timeMonth": 383,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2023-07-23": 52,
@@ -54,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 331,
-    "timeDay": 394,
-    "timeWeek": 394,
-    "timeMonth": 295,
-    "timeYear": 322,
+    "timeDay": 415,
+    "timeWeek": 398,
+    "timeMonth": 302,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2023-07-24": 17,
       "2023-02-11": 16
@@ -73,15 +71,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.86%",
     "time": 420,
-    "timeDay": 230,
-    "timeWeek": 343,
-    "timeMonth": 387,
+    "timeDay": 610,
+    "timeWeek": 399,
+    "timeMonth": 395,
     "timeYear": 425,
-    "dailyMinutesDown": {
-      "2023-01-23": 730
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProSetup",
@@ -95,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 332,
-    "timeDay": 401,
-    "timeWeek": 322,
-    "timeMonth": 293,
-    "timeYear": 335,
+    "timeDay": 392,
+    "timeWeek": 324,
+    "timeMonth": 296,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2023-07-24": 17,
       "2023-02-11": 16
@@ -116,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 858,
-    "timeWeek": 754,
-    "timeMonth": 624,
-    "timeYear": 655,
+    "timeDay": 853,
+    "timeWeek": 744,
+    "timeMonth": 635,
+    "timeYear": 656,
     "dailyMinutesDown": {}
   },
   {
@@ -134,10 +130,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 759,
+    "timeDay": 808,
     "timeWeek": 680,
-    "timeMonth": 603,
-    "timeYear": 689,
+    "timeMonth": 611,
+    "timeYear": 690,
     "dailyMinutesDown": {}
   },
   {
@@ -146,18 +142,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "punto-infissi",
     "status": "down",
-    "uptime": "83.14%",
+    "uptime": "83.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.98%",
-    "time": 804,
-    "timeDay": 448,
-    "timeWeek": 479,
-    "timeMonth": 725,
-    "timeYear": 813,
+    "uptimeYear": "66.71%",
+    "time": 803,
+    "timeDay": 414,
+    "timeWeek": 456,
+    "timeMonth": 721,
+    "timeYear": 811,
     "dailyMinutesDown": {
-      "2024-01-22": 15,
+      "2024-01-23": 15,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
