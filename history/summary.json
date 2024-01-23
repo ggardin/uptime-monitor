@@ -105,19 +105,19 @@
     "url": "$SITE_KPHRS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ekphrasis",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 853,
-    "timeWeek": 744,
-    "timeMonth": 635,
-    "timeYear": 656,
+    "timeDay": 702,
+    "timeWeek": 720,
+    "timeMonth": 632,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2024-01-23": 1
+      "2024-01-23": 6
     }
   },
   {
@@ -125,19 +125,19 @@
     "url": "$SITE_TCGLR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "itaca-gallery",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 707,
-    "timeDay": 6040,
-    "timeWeek": 2004,
-    "timeMonth": 944,
+    "timeDay": 4197,
+    "timeWeek": 1838,
+    "timeMonth": 931,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-01-23": 0
+      "2024-01-23": 5
     }
   },
   {
@@ -157,7 +157,7 @@
     "timeMonth": 538,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2024-01-23": 1144,
+      "2024-01-23": 1150,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
