@@ -1,7 +1,7 @@
 url: $SITE_PTNFS
-status: down
+status: degraded
 code: 404
-responseTime: 399
-lastUpdated: 2024-02-09T23:03:22.338Z
+responseTime: 5088
+lastUpdated: 2024-02-10T14:54:56.584Z
 startTime: 2022-02-04T10:45:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
