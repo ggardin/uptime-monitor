@@ -103,10 +103,10 @@
     "url": "$SITE_KPHRS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ekphrasis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 665,
@@ -115,6 +115,7 @@
     "timeMonth": 715,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2024-04-03": 2,
       "2024-03-26": 16
     }
   },
@@ -123,18 +124,20 @@
     "url": "$SITE_TCGLR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "itaca-gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
+    "time": 700,
     "timeDay": 480,
     "timeWeek": 567,
     "timeMonth": 626,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 0
+    }
   },
   {
     "name": "Punto Infissi",
@@ -142,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "punto-infissi",
     "status": "down",
-    "uptime": "75.55%",
+    "uptime": "75.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.26%",
+    "uptimeYear": "47.09%",
     "time": 775,
     "timeDay": 278,
     "timeWeek": 839,
     "timeMonth": 454,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2024-04-03": 14,
+      "2024-04-03": 871,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
