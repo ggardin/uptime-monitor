@@ -4,19 +4,19 @@
     "url": "$SITE_LF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "life",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 348,
-    "timeDay": 281,
-    "timeWeek": 322,
-    "timeMonth": 328,
-    "timeYear": 316,
+    "timeDay": 228,
+    "timeWeek": 304,
+    "timeMonth": 323,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-04-16": 0
+      "2024-04-16": 5
     }
   },
   {
@@ -67,19 +67,19 @@
     "url": "$SITE_MCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "montello-country-house",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 166,
-    "timeWeek": 338,
-    "timeMonth": 369,
-    "timeYear": 426,
+    "time": 429,
+    "timeDay": 1306,
+    "timeWeek": 699,
+    "timeMonth": 466,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-04-16": 0
+      "2024-04-16": 5
     }
   },
   {
@@ -157,7 +157,7 @@
     "timeMonth": 464,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2024-04-16": 882,
+      "2024-04-16": 887,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
