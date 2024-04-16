@@ -4,9 +4,9 @@
     "url": "$SITE_LF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "life",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 322,
     "timeMonth": 328,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "Barchessa Loredan",
@@ -46,10 +48,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confraternita-vini-asolo-montello",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 2842,
@@ -57,7 +59,6 @@
     "timeMonth": 527,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2024-04-16": 8,
       "2023-07-24": 17
     }
   },
@@ -66,18 +67,20 @@
     "url": "$SITE_MCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "montello-country-house",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 170,
-    "timeWeek": 363,
-    "timeMonth": 375,
+    "time": 423,
+    "timeDay": 166,
+    "timeWeek": 338,
+    "timeMonth": 369,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-16": 0
+    }
   },
   {
     "name": "ProSetup",
@@ -147,14 +150,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.54%",
+    "uptimeYear": "43.53%",
     "time": 764,
     "timeDay": 301,
     "timeWeek": 341,
     "timeMonth": 464,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2024-04-16": 803,
+      "2024-04-16": 882,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
