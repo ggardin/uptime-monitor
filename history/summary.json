@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 306,
-    "timeWeek": 349,
-    "timeMonth": 351,
-    "timeYear": 328,
+    "time": 326,
+    "timeDay": 302,
+    "timeWeek": 321,
+    "timeMonth": 344,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 468,
-    "timeDay": 325,
-    "timeWeek": 365,
-    "timeMonth": 335,
-    "timeYear": 479,
+    "timeDay": 277,
+    "timeWeek": 344,
+    "timeMonth": 334,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -47,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 145,
-    "timeWeek": 249,
-    "timeMonth": 248,
+    "timeDay": 208,
+    "timeWeek": 235,
+    "timeMonth": 249,
     "timeYear": 323,
-    "dailyMinutesDown": {
-      "2023-07-24": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Montello Country House",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 468,
-    "timeWeek": 502,
-    "timeMonth": 464,
-    "timeYear": 460,
+    "time": 451,
+    "timeDay": 578,
+    "timeWeek": 460,
+    "timeMonth": 472,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -85,13 +83,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 180,
-    "timeWeek": 263,
-    "timeMonth": 279,
+    "timeDay": 191,
+    "timeWeek": 242,
+    "timeMonth": 270,
     "timeYear": 330,
-    "dailyMinutesDown": {
-      "2023-07-24": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ekphrasis",
@@ -105,8 +101,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 679,
-    "timeDay": 598,
-    "timeWeek": 720,
+    "timeDay": 574,
+    "timeWeek": 662,
     "timeMonth": 869,
     "timeYear": 687,
     "dailyMinutesDown": {
@@ -126,10 +122,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 491,
-    "timeWeek": 627,
-    "timeMonth": 645,
+    "time": 713,
+    "timeDay": 600,
+    "timeWeek": 579,
+    "timeMonth": 649,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2024-07-01": 17
@@ -141,18 +137,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "punto-infissi",
     "status": "down",
-    "uptime": "66.30%",
+    "uptime": "66.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.12%",
-    "time": 709,
-    "timeDay": 348,
-    "timeWeek": 354,
-    "timeMonth": 547,
+    "uptimeYear": "16.84%",
+    "time": 708,
+    "timeDay": 301,
+    "timeWeek": 329,
+    "timeMonth": 538,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2024-07-22": 16,
+      "2024-07-23": 16,
+      "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
