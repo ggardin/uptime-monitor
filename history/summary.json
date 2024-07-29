@@ -22,19 +22,19 @@
     "url": "$SITE_BRKLRD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "barchessa-loredan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 269,
-    "timeWeek": 331,
-    "timeMonth": 341,
+    "timeDay": 276,
+    "timeWeek": 325,
+    "timeMonth": 340,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-07-29": 0
+      "2024-07-29": 6
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 399,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2024-07-29": 960,
+      "2024-07-29": 966,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
