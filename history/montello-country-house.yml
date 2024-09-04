@@ -1,7 +1,7 @@
 url: $SITE_MCH
-status: up
+status: degraded
 code: 200
-responseTime: 297
-lastUpdated: 2024-09-03T23:03:18.116Z
+responseTime: 10937
+lastUpdated: 2024-09-04T05:57:24.004Z
 startTime: 2022-02-04T10:45:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
