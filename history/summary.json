@@ -34,7 +34,7 @@
     "timeMonth": 167,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2024-09-14": 1164,
+      "2024-09-14": 1170,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
@@ -76,19 +76,19 @@
     "url": "$SITE_CVAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confraternita-vini-asolo-montello",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 514,
-    "timeWeek": 275,
-    "timeMonth": 292,
-    "timeYear": 312,
+    "time": 322,
+    "timeDay": 597,
+    "timeWeek": 329,
+    "timeMonth": 307,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-09-14": 0
+      "2024-09-14": 6
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 501,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2024-09-14": 1164,
+      "2024-09-14": 1170,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
