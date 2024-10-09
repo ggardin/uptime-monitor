@@ -34,7 +34,7 @@
     "timeMonth": 155,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2024-10-09": 1296,
+      "2024-10-09": 1301,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -137,19 +137,19 @@
     "url": "$SITE_PRSTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pro-setup",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 2866,
-    "timeWeek": 885,
-    "timeMonth": 409,
+    "time": 331,
+    "timeDay": 1984,
+    "timeWeek": 811,
+    "timeMonth": 404,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-10-09": 0
+      "2024-10-09": 5
     }
   },
   {
@@ -216,7 +216,7 @@
     "timeMonth": 344,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2024-10-09": 1296,
+      "2024-10-09": 1302,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
