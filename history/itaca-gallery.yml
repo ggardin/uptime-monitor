@@ -1,7 +1,7 @@
 url: $SITE_TCGLR
-status: degraded
+status: up
 code: 200
-responseTime: 7822
-lastUpdated: 2024-10-18T19:42:03.821Z
+responseTime: 3028
+lastUpdated: 2024-10-18T19:47:35.578Z
 startTime: 2022-02-04T10:45:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
