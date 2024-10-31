@@ -34,7 +34,7 @@
     "timeMonth": 162,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2024-10-31": 188,
+      "2024-10-31": 198,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
@@ -141,19 +141,19 @@
     "url": "$SITE_MCH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "montello-country-house",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 10186,
-    "timeWeek": 2897,
-    "timeMonth": 1034,
+    "time": 516,
+    "timeDay": 6889,
+    "timeWeek": 2608,
+    "timeMonth": 1011,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-10-31": 0
+      "2024-10-31": 10
     }
   },
   {
@@ -241,7 +241,7 @@
     "timeMonth": 370,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2024-10-31": 188,
+      "2024-10-31": 198,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
