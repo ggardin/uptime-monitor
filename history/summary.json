@@ -34,7 +34,7 @@
     "timeMonth": 169,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-11-14": 805,
+      "2024-11-14": 814,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -137,19 +137,19 @@
     "url": "$SITE_CVAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confraternita-vini-asolo-montello",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 10018,
-    "timeWeek": 2727,
-    "timeMonth": 883,
-    "timeYear": 358,
+    "time": 350,
+    "timeDay": 6753,
+    "timeWeek": 2449,
+    "timeMonth": 863,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-11-14": 1
+      "2024-11-14": 9
     }
   },
   {
@@ -175,19 +175,19 @@
     "url": "$SITE_PRSTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pro-setup",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 9968,
-    "timeWeek": 2741,
-    "timeMonth": 901,
-    "timeYear": 371,
+    "time": 364,
+    "timeDay": 6715,
+    "timeWeek": 2460,
+    "timeMonth": 880,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 8
     }
   },
   {
@@ -257,7 +257,7 @@
     "timeMonth": 552,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2024-11-14": 806,
+      "2024-11-14": 814,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
