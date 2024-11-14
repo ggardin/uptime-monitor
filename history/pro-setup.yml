@@ -1,7 +1,7 @@
 url: $SITE_PRSTP
-status: degraded
+status: up
 code: 200
-responseTime: 19610
-lastUpdated: 2024-11-14T13:25:06.700Z
+responseTime: 210
+lastUpdated: 2024-11-14T13:33:23.149Z
 startTime: 2022-02-04T10:45:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
