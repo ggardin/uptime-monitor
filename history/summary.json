@@ -4,18 +4,20 @@
     "url": "$SITE_LF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "life",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
+    "time": 343,
     "timeDay": 302,
     "timeWeek": 338,
     "timeMonth": 360,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   },
   {
     "name": "Barchessa Loredan",
@@ -34,7 +36,7 @@
     "timeMonth": 338,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2025-01-28": 436,
+      "2025-01-28": 451,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -232,18 +234,16 @@
     "slug": "montello-country-house",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
     "timeDay": 4634,
     "timeWeek": 1739,
     "timeMonth": 785,
     "timeYear": 580,
-    "dailyMinutesDown": {
-      "2025-01-28": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ProSetup",
@@ -337,19 +337,19 @@
     "url": "$SITE_PTNFS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "punto-infissi",
-    "status": "down",
+    "status": "degraded",
     "uptime": "54.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 563,
-    "timeDay": 299,
-    "timeWeek": 398,
-    "timeMonth": 822,
-    "timeYear": 530,
+    "time": 577,
+    "timeDay": 3956,
+    "timeWeek": 1300,
+    "timeMonth": 1011,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-01-28": 436,
+      "2025-01-28": 451,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
