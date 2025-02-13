@@ -1,7 +1,7 @@
 url: $SITE_BRKLRD
-status: degraded
+status: down
 code: 403
-responseTime: 5308
-lastUpdated: 2025-02-13T15:38:42.377Z
+responseTime: 54
+lastUpdated: 2025-02-13T15:44:22.514Z
 startTime: 2022-02-04T10:45:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
