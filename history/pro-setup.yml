@@ -1,7 +1,7 @@
 url: $SITE_PRSTP
-status: down
-code: 526
-responseTime: 569
-lastUpdated: 2025-05-07T11:34:19.487Z
+status: up
+code: 200
+responseTime: 234
+lastUpdated: 2025-05-07T11:40:27.847Z
 startTime: 2022-02-04T10:45:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
