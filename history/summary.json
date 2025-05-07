@@ -34,7 +34,7 @@
     "timeMonth": 186,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-05-07": 707,
+      "2025-05-07": 712,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -311,19 +311,19 @@
     "url": "$SITE_CVAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confraternita-vini-asolo-montello",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 327,
-    "timeWeek": 247,
-    "timeMonth": 277,
+    "timeDay": 323,
+    "timeWeek": 255,
+    "timeMonth": 278,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 6
     }
   },
   {
@@ -369,7 +369,7 @@
     "slug": "ekphrasis",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "0.86%",
+    "uptimeDay": "1.24%",
     "uptimeWeek": "81.07%",
     "uptimeMonth": "95.64%",
     "uptimeYear": "97.34%",
@@ -401,7 +401,7 @@
     "slug": "itaca-gallery",
     "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "1.91%",
+    "uptimeDay": "2.28%",
     "uptimeWeek": "80.92%",
     "uptimeMonth": "95.61%",
     "uptimeYear": "95.31%",
@@ -460,7 +460,7 @@
     "timeMonth": 831,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2025-05-07": 707,
+      "2025-05-07": 712,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
