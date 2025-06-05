@@ -1,7 +1,7 @@
 url: $SITE_KPHRS
-status: up
+status: degraded
 code: 200
-responseTime: 664
-lastUpdated: 2025-06-05T16:20:19.718Z
+responseTime: 7535
+lastUpdated: 2025-06-05T16:35:45.724Z
 startTime: 2022-02-04T10:45:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
