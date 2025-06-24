@@ -34,7 +34,7 @@
     "timeMonth": 433,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2025-06-24": 1132,
+      "2025-06-24": 1139,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1428,
@@ -361,17 +361,17 @@
     "slug": "confraternita-vini-asolo-montello",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 313,
-    "timeWeek": 324,
-    "timeMonth": 296,
-    "timeYear": 331,
+    "time": 356,
+    "timeDay": 3766,
+    "timeWeek": 1472,
+    "timeMonth": 611,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-06-24": 0
+      "2025-06-24": 7
     }
   },
   {
@@ -510,7 +510,7 @@
     "timeMonth": 611,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2025-06-24": 1132,
+      "2025-06-24": 1139,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
