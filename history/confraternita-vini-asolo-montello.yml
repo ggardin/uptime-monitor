@@ -1,7 +1,7 @@
 url: $SITE_CVAM
-status: degraded
-code: 520
-responseTime: 10447
-lastUpdated: 2025-07-04T09:32:01.858Z
+status: up
+code: 200
+responseTime: 209
+lastUpdated: 2025-07-04T09:40:20.960Z
 startTime: 2022-02-04T10:45:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
